@@ -146,5 +146,4 @@ o Tình tổng giá thành của các CD.
 o Phương thức sắp xếp danh sách giảm dần theo giá thành.
 o Phương thức sắp xếp danh sách tăng dần theo tựa CD.
 o Phương thức xuất toàn bộ danh sách.
-Viết lớp cho phần kiểm nghiệm. Dùng menu case thực hiện các chức năng
-theo yêu cầu
+Viết lớp cho phần kiểm nghiệm. Dùng menu case thực hiện các chức năng theo yêu cầu

@@ -56,6 +56,7 @@ public class Rectangle {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         try {
             System.out.println("Enter width: ");
             double width = sc.nextDouble();
