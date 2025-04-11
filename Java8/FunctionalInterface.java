@@ -83,6 +83,7 @@ public class FunctionalInterface {
         Supplier<String> supplier1 = () -> "Nguyen Trinh Vo"; //tạo supplier
         String print  = supplier1.get(); // phương thức get() gán giá trị cho print
         System.out.println(print);
+
         Supplier<Integer> supplier2 = () -> 9;
         System.out.println(supplier2.get());
 

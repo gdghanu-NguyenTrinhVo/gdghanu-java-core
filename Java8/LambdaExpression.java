@@ -9,6 +9,7 @@ package Java8;
 -Cú pháp: (argument list) -> {body}
            phải sử dụng return khi biểu thức lambda chứa nhiều câu lệnh
  */
+
 public class LambdaExpression {
     public static void main(String[] args) {
         PrintString printString = s -> {

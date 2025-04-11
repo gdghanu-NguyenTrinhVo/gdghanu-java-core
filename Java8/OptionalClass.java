@@ -7,6 +7,7 @@ Optional class:
 -Giảm rủi ro của các lồi NullPointerException
 -Để sử dụng Optional cần sử dụng java.util.Optional
  */
+
 public class OptionalClass {
     public static void main(String[] args) {
         Optional<String> emptyOptional = Optional.empty(); //khởi tạo Optional

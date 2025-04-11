@@ -1,4 +1,5 @@
 package Java8;
+
 /*
 Default method:
 -Trước java 8, các interface chỉ có thể chứa các phương thức trừu tượng
